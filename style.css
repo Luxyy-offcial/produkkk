@@ -1,0 +1,26 @@
+/* ==========================================================
+   LUXYYOFC SHOP - OFFICIAL STYLESHEET (style.css)
+   ========================================================== */
+body {
+            font-family: 'Inter', sans-serif;
+            background-color: #060913;
+            color: #f1f5f9;
+        }
+        .glass-card {
+            background: rgba(15, 23, 42, 0.82);
+            backdrop-filter: blur(16px);
+            border: 1px solid rgba(99, 102, 241, 0.18);
+        }
+        .yusuf-poster-bg {
+            background: radial-gradient(circle at top right, #1e40af 0%, #091538 55%, #04091a 100%);
+            border: 2px solid #38bdf8;
+            box-shadow: 0 0 25px rgba(56, 189, 248, 0.35);
+        }
+        .neon-blue-box {
+            background: rgba(15, 35, 80, 0.75);
+            border: 1.5px solid #60a5fa;
+            box-shadow: inset 0 0 12px rgba(59, 130, 246, 0.3);
+        }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: #090d16; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 9999px; }
